@@ -1,0 +1,210 @@
+hint: Using 'master' as the name for the initial branch. This default branch name
+hint: is subject to change. To configure the initial branch name to use in all
+hint: of your new repositories, which will suppress this warning, call:
+hint:
+hint:   git config --global init.defaultBranch <name>
+hint:
+hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+hint: 'development'. The just-created branch can be renamed via this command:
+hint:
+hint:   git branch -m <name>
+Initialized empty Git repository in C:/Users/ADVAN/TheForge/Machine Learning A-Z (Codes and Datasets)/.git/
+warning: in the working copy of '.idea/inspectionProfiles/profiles_settings.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Part 1 - Data Preprocessing/Section 2 -------------------- Part 1 - Data Preprocessing --------------------/Python/data_preprocessing_template.ipynb', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Part 1 - Data Preprocessing/Section 2 -------------------- Part 1 - Data Preprocessing --------------------/Python/data_preprocessing_tools.ipynb', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Part 1 - Data Preprocessing/Section 2 -------------------- Part 1 - Data Preprocessing --------------------/R/categorical_data.R', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Part 1 - Data Preprocessing/Section 2 -------------------- Part 1 - Data Preprocessing --------------------/R/data_preprocessing_template.R', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Part 1 - Data Preprocessing/Section 2 -------------------- Part 1 - Data Preprocessing --------------------/R/missing_data.R', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Part 10 - Model Selection & Boosting/Section 48 - Model Selection/R/grid_search.R', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Part 10 - Model Selection & Boosting/Section 48 - Model Selection/R/k_fold_cross_validation.R', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Part 10 - Model Selection & Boosting/Section 49 - XGBoost/Python/Data.csv', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Part 10 - Model Selection & Boosting/Section 49 - XGBoost/R/xg_boost.R', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Part 2 - Regression/Section 4 - Simple Linear Regression/Python/simple_linear_regression.ipynb', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Part 2 - Regression/Section 4 - Simple Linear Regression/R/data_preprocessing_template.R', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Part 2 - Regression/Section 4 - Simple Linear Regression/R/simple_linear_regression.R', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Part 2 - Regression/Section 5 - Multiple Linear Regression/Python/multiple_linear_regression.ipynb', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Part 2 - Regression/Section 5 - Multiple Linear Regression/R/data_preprocessing_template.R', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Part 2 - Regression/Section 5 - Multiple Linear Regression/R/multiple_linear_regression.R', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Part 2 - Regression/Section 6 - Polynomial Regression/R/data_preprocessing_template.R', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Part 2 - Regression/Section 6 - Polynomial Regression/R/polynomial_regression.R', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Part 2 - Regression/Section 7 - Support Vector Regression (SVR)/R/data_preprocessing_template.R', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Part 2 - Regression/Section 7 - Support Vector Regression (SVR)/R/svr.R', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Part 2 - Regression/Section 8 - Decision Tree Regression/R/decision_tree_regression.R', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Part 2 - Regression/Section 8 - Decision Tree Regression/R/regression_template.R', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Part 2 - Regression/Section 9 - Random Forest Regression/R/random_forest_regression.R', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Part 2 - Regression/Section 9 - Random Forest Regression/R/regression_template.R', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Part 3 - Classification/Section 14 - Logistic Regression/R/logistic_regression.R', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Part 3 - Classification/Section 15 - K-Nearest Neighbors (K-NN)/R/classification_template.R', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Part 3 - Classification/Section 15 - K-Nearest Neighbors (K-NN)/R/knn.R', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Part 3 - Classification/Section 16 - Support Vector Machine (SVM)/R/classification_template.R', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Part 3 - Classification/Section 16 - Support Vector Machine (SVM)/R/svm.R', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Part 3 - Classification/Section 17 - Kernel SVM/R/classification_template.R', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Part 3 - Classification/Section 17 - Kernel SVM/R/kernel_svm.R', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Part 3 - Classification/Section 18 - Naive Bayes/R/classification_template.R', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Part 3 - Classification/Section 18 - Naive Bayes/R/naive_bayes.R', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Part 3 - Classification/Section 19 - Decision Tree Classification/R/classification_template.R', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Part 3 - Classification/Section 19 - Decision Tree Classification/R/decision_tree_classification.R', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Part 3 - Classification/Section 20 - Random Forest Classification/R/classification_template.R', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Part 3 - Classification/Section 20 - Random Forest Classification/R/random_forest_classification.R', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Part 4 - Clustering/Section 24 - K-Means Clustering/R/data_preprocessing_template.R', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Part 4 - Clustering/Section 24 - K-Means Clustering/R/k_means_clustering.R', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Part 4 - Clustering/Section 25 - Hierarchical Clustering/R/data_preprocessing_template.R', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Part 4 - Clustering/Section 25 - Hierarchical Clustering/R/hc.R', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Part 5 - Association Rule Learning/Section 28 - Apriori/Python/Market_Basket_Optimisation.csv', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Part 5 - Association Rule Learning/Section 28 - Apriori/R/Market_Basket_Optimisation.csv', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Part 5 - Association Rule Learning/Section 28 - Apriori/R/apriori.R', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Part 5 - Association Rule Learning/Section 29 - Eclat/Python/Market_Basket_Optimisation.csv', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Part 5 - Association Rule Learning/Section 29 - Eclat/R/Market_Basket_Optimisation.csv', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Part 5 - Association Rule Learning/Section 29 - Eclat/R/eclat.R', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Part 6 - Reinforcement Learning/Section 32 - Upper Confidence Bound (UCB)/R/random_selection.R', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Part 6 - Reinforcement Learning/Section 32 - Upper Confidence Bound (UCB)/R/upper_confidence_bound.R', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Part 6 - Reinforcement Learning/Section 33 - Thompson Sampling/R/random_selection.R', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Part 6 - Reinforcement Learning/Section 33 - Thompson Sampling/R/thompson_sampling.R', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Part 7 - Natural Language Processing/Section 36 - Natural Language Processing/Python/Restaurant_Reviews.tsv', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Part 7 - Natural Language Processing/Section 36 - Natural Language Processing/R/Restaurant_Reviews.tsv', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Part 7 - Natural Language Processing/Section 36 - Natural Language Processing/R/natural_language_processing.R', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Part 8 - Deep Learning/Section 39 - Artificial Neural Networks (ANN)/R/ann.R', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Part 9 - Dimensionality Reduction/Section 43 - Principal Component Analysis (PCA)/R/pca.R', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Part 9 - Dimensionality Reduction/Section 44 - Linear Discriminant Analysis (LDA)/R/lda.R', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Part 9 - Dimensionality Reduction/Section 45 - Kernel PCA/R/kernel_pca.R', LF will be replaced by CRLF the next time Git touches it
+[master (root-commit) dd9f105] Initialize Machine Learning A-Z project with Data Preprocessing Template
+ 139 files changed, 116218 insertions(+)
+ create mode 100644 .aiassistant/rules/AGENT_Learning_rules.md
+ create mode 100644 .idea/.gitignore
+ create mode 100644 .idea/Machine Learning A-Z (Codes and Datasets).iml
+ create mode 100644 .idea/inspectionProfiles/profiles_settings.xml
+ create mode 100644 .idea/misc.xml
+ create mode 100644 .idea/modules.xml
+ create mode 100644 Part 1 - Data Preprocessing/Section 2 -------------------- Part 1 - Data Preprocessing --------------------/Python/Data.csv
+ create mode 100644 Part 1 - Data Preprocessing/Section 2 -------------------- Part 1 - Data Preprocessing --------------------/Python/data_preprocessing_template.ipynb
+ create mode 100644 Part 1 - Data Preprocessing/Section 2 -------------------- Part 1 - Data Preprocessing --------------------/Python/data_preprocessing_tools.ipynb
+ create mode 100644 Part 1 - Data Preprocessing/Section 2 -------------------- Part 1 - Data Preprocessing --------------------/R/Data.csv
+ create mode 100644 Part 1 - Data Preprocessing/Section 2 -------------------- Part 1 - Data Preprocessing --------------------/R/categorical_data.R
+ create mode 100644 Part 1 - Data Preprocessing/Section 2 -------------------- Part 1 - Data Preprocessing --------------------/R/data_preprocessing_template.R
+ create mode 100644 Part 1 - Data Preprocessing/Section 2 -------------------- Part 1 - Data Preprocessing --------------------/R/missing_data.R
+ create mode 100644 Part 10 - Model Selection & Boosting/Section 48 - Model Selection/Python/Social_Network_Ads.csv
+ create mode 100644 Part 10 - Model Selection & Boosting/Section 48 - Model Selection/Python/grid_search.ipynb
+ create mode 100644 Part 10 - Model Selection & Boosting/Section 48 - Model Selection/Python/k_fold_cross_validation.ipynb
+ create mode 100644 Part 10 - Model Selection & Boosting/Section 48 - Model Selection/R/Social_Network_Ads.csv
+ create mode 100644 Part 10 - Model Selection & Boosting/Section 48 - Model Selection/R/grid_search.R
+ create mode 100644 Part 10 - Model Selection & Boosting/Section 48 - Model Selection/R/k_fold_cross_validation.R
+ create mode 100644 Part 10 - Model Selection & Boosting/Section 49 - XGBoost/Python/Data.csv
+ create mode 100644 Part 10 - Model Selection & Boosting/Section 49 - XGBoost/Python/xg_boost.ipynb
+ create mode 100644 Part 10 - Model Selection & Boosting/Section 49 - XGBoost/R/Churn_Modelling.csv
+ create mode 100644 Part 10 - Model Selection & Boosting/Section 49 - XGBoost/R/xg_boost.R
+ create mode 100644 Part 2 - Regression/Section 4 - Simple Linear Regression/Python/Salary_Data.csv
+ create mode 100644 Part 2 - Regression/Section 4 - Simple Linear Regression/Python/simple_linear_regression.ipynb
+ create mode 100644 Part 2 - Regression/Section 4 - Simple Linear Regression/R/Salary_Data.csv
+ create mode 100644 Part 2 - Regression/Section 4 - Simple Linear Regression/R/data_preprocessing_template.R
+ create mode 100644 Part 2 - Regression/Section 4 - Simple Linear Regression/R/simple_linear_regression.R
+ create mode 100644 Part 2 - Regression/Section 5 - Multiple Linear Regression/Python/50_Startups.csv
+ create mode 100644 Part 2 - Regression/Section 5 - Multiple Linear Regression/Python/multiple_linear_regression.ipynb
+ create mode 100644 Part 2 - Regression/Section 5 - Multiple Linear Regression/R/50_Startups.csv
+ create mode 100644 Part 2 - Regression/Section 5 - Multiple Linear Regression/R/data_preprocessing_template.R
+ create mode 100644 Part 2 - Regression/Section 5 - Multiple Linear Regression/R/multiple_linear_regression.R
+ create mode 100644 Part 2 - Regression/Section 6 - Polynomial Regression/Python/Position_Salaries.csv
+ create mode 100644 Part 2 - Regression/Section 6 - Polynomial Regression/Python/polynomial_regression.ipynb
+ create mode 100644 Part 2 - Regression/Section 6 - Polynomial Regression/R/Position_Salaries.csv
+ create mode 100644 Part 2 - Regression/Section 6 - Polynomial Regression/R/data_preprocessing_template.R
+ create mode 100644 Part 2 - Regression/Section 6 - Polynomial Regression/R/polynomial_regression.R
+ create mode 100644 Part 2 - Regression/Section 7 - Support Vector Regression (SVR)/Python/Position_Salaries.csv
+ create mode 100644 Part 2 - Regression/Section 7 - Support Vector Regression (SVR)/Python/support_vector_regression.ipynb
+ create mode 100644 Part 2 - Regression/Section 7 - Support Vector Regression (SVR)/R/Position_Salaries.csv
+ create mode 100644 Part 2 - Regression/Section 7 - Support Vector Regression (SVR)/R/data_preprocessing_template.R
+ create mode 100644 Part 2 - Regression/Section 7 - Support Vector Regression (SVR)/R/svr.R
+ create mode 100644 Part 2 - Regression/Section 8 - Decision Tree Regression/Python/Position_Salaries.csv
+ create mode 100644 Part 2 - Regression/Section 8 - Decision Tree Regression/Python/decision_tree_regression.ipynb
+ create mode 100644 Part 2 - Regression/Section 8 - Decision Tree Regression/R/Position_Salaries.csv
+ create mode 100644 Part 2 - Regression/Section 8 - Decision Tree Regression/R/decision_tree_regression.R
+ create mode 100644 Part 2 - Regression/Section 8 - Decision Tree Regression/R/regression_template.R
+ create mode 100644 Part 2 - Regression/Section 9 - Random Forest Regression/Python/Position_Salaries.csv
+ create mode 100644 Part 2 - Regression/Section 9 - Random Forest Regression/Python/random_forest_regression.ipynb
+ create mode 100644 Part 2 - Regression/Section 9 - Random Forest Regression/R/Position_Salaries.csv
+ create mode 100644 Part 2 - Regression/Section 9 - Random Forest Regression/R/random_forest_regression.R
+ create mode 100644 Part 2 - Regression/Section 9 - Random Forest Regression/R/regression_template.R
+ create mode 100644 Part 3 - Classification/Section 14 - Logistic Regression/Python/Social_Network_Ads.csv
+ create mode 100644 Part 3 - Classification/Section 14 - Logistic Regression/Python/logistic_regression.ipynb
+ create mode 100644 Part 3 - Classification/Section 14 - Logistic Regression/R/Social_Network_Ads.csv
+ create mode 100644 Part 3 - Classification/Section 14 - Logistic Regression/R/logistic_regression.R
+ create mode 100644 Part 3 - Classification/Section 15 - K-Nearest Neighbors (K-NN)/Python/Social_Network_Ads.csv
+ create mode 100644 Part 3 - Classification/Section 15 - K-Nearest Neighbors (K-NN)/Python/k_nearest_neighbors.ipynb
+ create mode 100644 Part 3 - Classification/Section 15 - K-Nearest Neighbors (K-NN)/R/Social_Network_Ads.csv
+ create mode 100644 Part 3 - Classification/Section 15 - K-Nearest Neighbors (K-NN)/R/classification_template.R
+ create mode 100644 Part 3 - Classification/Section 15 - K-Nearest Neighbors (K-NN)/R/knn.R
+ create mode 100644 Part 3 - Classification/Section 16 - Support Vector Machine (SVM)/Python/Social_Network_Ads.csv
+ create mode 100644 Part 3 - Classification/Section 16 - Support Vector Machine (SVM)/Python/support_vector_machine.ipynb
+ create mode 100644 Part 3 - Classification/Section 16 - Support Vector Machine (SVM)/R/Social_Network_Ads.csv
+ create mode 100644 Part 3 - Classification/Section 16 - Support Vector Machine (SVM)/R/classification_template.R
+ create mode 100644 Part 3 - Classification/Section 16 - Support Vector Machine (SVM)/R/svm.R
+ create mode 100644 Part 3 - Classification/Section 17 - Kernel SVM/Python/Social_Network_Ads.csv
+ create mode 100644 Part 3 - Classification/Section 17 - Kernel SVM/Python/kernel_svm.ipynb
+ create mode 100644 Part 3 - Classification/Section 17 - Kernel SVM/R/Social_Network_Ads.csv
+ create mode 100644 Part 3 - Classification/Section 17 - Kernel SVM/R/classification_template.R
+ create mode 100644 Part 3 - Classification/Section 17 - Kernel SVM/R/kernel_svm.R
+ create mode 100644 Part 3 - Classification/Section 18 - Naive Bayes/Python/Social_Network_Ads.csv
+ create mode 100644 Part 3 - Classification/Section 18 - Naive Bayes/Python/naive_bayes.ipynb
+ create mode 100644 Part 3 - Classification/Section 18 - Naive Bayes/R/Social_Network_Ads.csv
+ create mode 100644 Part 3 - Classification/Section 18 - Naive Bayes/R/classification_template.R
+ create mode 100644 Part 3 - Classification/Section 18 - Naive Bayes/R/naive_bayes.R
+ create mode 100644 Part 3 - Classification/Section 19 - Decision Tree Classification/Python/Social_Network_Ads.csv
+ create mode 100644 Part 3 - Classification/Section 19 - Decision Tree Classification/Python/decision_tree_classification.ipynb
+ create mode 100644 Part 3 - Classification/Section 19 - Decision Tree Classification/R/Social_Network_Ads.csv
+ create mode 100644 Part 3 - Classification/Section 19 - Decision Tree Classification/R/classification_template.R
+ create mode 100644 Part 3 - Classification/Section 19 - Decision Tree Classification/R/decision_tree_classification.R
+ create mode 100644 Part 3 - Classification/Section 20 - Random Forest Classification/Python/Social_Network_Ads.csv
+ create mode 100644 Part 3 - Classification/Section 20 - Random Forest Classification/Python/random_forest_classification.ipynb
+ create mode 100644 Part 3 - Classification/Section 20 - Random Forest Classification/R/Social_Network_Ads.csv
+ create mode 100644 Part 3 - Classification/Section 20 - Random Forest Classification/R/classification_template.R
+ create mode 100644 Part 3 - Classification/Section 20 - Random Forest Classification/R/random_forest_classification.R
+ create mode 100644 Part 4 - Clustering/Section 24 - K-Means Clustering/Python/Mall_Customers.csv
+ create mode 100644 Part 4 - Clustering/Section 24 - K-Means Clustering/Python/k_means_clustering.ipynb
+ create mode 100644 Part 4 - Clustering/Section 24 - K-Means Clustering/R/data_preprocessing_template.R
+ create mode 100644 Part 4 - Clustering/Section 24 - K-Means Clustering/R/k_means_clustering.R
+ create mode 100644 Part 4 - Clustering/Section 24 - K-Means Clustering/R/mall.csv
+ create mode 100644 Part 4 - Clustering/Section 25 - Hierarchical Clustering/Python/Mall_Customers.csv
+ create mode 100644 Part 4 - Clustering/Section 25 - Hierarchical Clustering/Python/hierarchical_clustering.ipynb
+ create mode 100644 Part 4 - Clustering/Section 25 - Hierarchical Clustering/R/Mall_Customers.csv
+ create mode 100644 Part 4 - Clustering/Section 25 - Hierarchical Clustering/R/data_preprocessing_template.R
+ create mode 100644 Part 4 - Clustering/Section 25 - Hierarchical Clustering/R/hc.R
+ create mode 100644 Part 5 - Association Rule Learning/Section 28 - Apriori/Python/Market_Basket_Optimisation.csv
+ create mode 100644 Part 5 - Association Rule Learning/Section 28 - Apriori/Python/apriori.ipynb
+ create mode 100644 Part 5 - Association Rule Learning/Section 28 - Apriori/R/Market_Basket_Optimisation.csv
+ create mode 100644 Part 5 - Association Rule Learning/Section 28 - Apriori/R/apriori.R
+ create mode 100644 Part 5 - Association Rule Learning/Section 29 - Eclat/Python/Market_Basket_Optimisation.csv
+ create mode 100644 Part 5 - Association Rule Learning/Section 29 - Eclat/Python/eclat.ipynb
+ create mode 100644 Part 5 - Association Rule Learning/Section 29 - Eclat/R/Market_Basket_Optimisation.csv
+ create mode 100644 Part 5 - Association Rule Learning/Section 29 - Eclat/R/eclat.R
+ create mode 100644 Part 6 - Reinforcement Learning/Section 32 - Upper Confidence Bound (UCB)/Python/Ads_CTR_Optimisation.csv
+ create mode 100644 Part 6 - Reinforcement Learning/Section 32 - Upper Confidence Bound (UCB)/Python/upper_confidence_bound.ipynb
+ create mode 100644 Part 6 - Reinforcement Learning/Section 32 - Upper Confidence Bound (UCB)/R/Ads_CTR_Optimisation.csv
+ create mode 100644 Part 6 - Reinforcement Learning/Section 32 - Upper Confidence Bound (UCB)/R/random_selection.R
+ create mode 100644 Part 6 - Reinforcement Learning/Section 32 - Upper Confidence Bound (UCB)/R/upper_confidence_bound.R
+ create mode 100644 Part 6 - Reinforcement Learning/Section 32 - Upper Confidence Bound (UCB)/UCB_Algorithm_Slide.png
+ create mode 100644 Part 6 - Reinforcement Learning/Section 33 - Thompson Sampling/Python/Ads_CTR_Optimisation.csv
+ create mode 100644 Part 6 - Reinforcement Learning/Section 33 - Thompson Sampling/Python/thompson_sampling.ipynb
+ create mode 100644 Part 6 - Reinforcement Learning/Section 33 - Thompson Sampling/R/Ads_CTR_Optimisation.csv
+ create mode 100644 Part 6 - Reinforcement Learning/Section 33 - Thompson Sampling/R/random_selection.R
+ create mode 100644 Part 6 - Reinforcement Learning/Section 33 - Thompson Sampling/R/thompson_sampling.R
+ create mode 100644 Part 6 - Reinforcement Learning/Section 33 - Thompson Sampling/Thompson_Sampling_Slide.png
+ create mode 100644 Part 7 - Natural Language Processing/Section 36 - Natural Language Processing/Python/Restaurant_Reviews.tsv
+ create mode 100644 Part 7 - Natural Language Processing/Section 36 - Natural Language Processing/Python/natural_language_processing.ipynb
+ create mode 100644 Part 7 - Natural Language Processing/Section 36 - Natural Language Processing/R/Restaurant_Reviews.tsv
+ create mode 100644 Part 7 - Natural Language Processing/Section 36 - Natural Language Processing/R/natural_language_processing.R
+ create mode 100644 Part 8 - Deep Learning/Section 39 - Artificial Neural Networks (ANN)/Python/Churn_Modelling.csv
+ create mode 100644 Part 8 - Deep Learning/Section 39 - Artificial Neural Networks (ANN)/Python/artificial_neural_network.ipynb
+ create mode 100644 Part 8 - Deep Learning/Section 39 - Artificial Neural Networks (ANN)/R/Churn_Modelling.csv
+ create mode 100644 Part 8 - Deep Learning/Section 39 - Artificial Neural Networks (ANN)/R/ann.R
+ create mode 100644 Part 8 - Deep Learning/Section 39 - Artificial Neural Networks (ANN)/Stochastic_Gradient_Descent.png
+ create mode 100644 Part 8 - Deep Learning/Section 40 - Convolutional Neural Networks (CNN)/Python/convolutional_neural_network.ipynb
+ create mode 100644 Part 9 - Dimensionality Reduction/Section 43 - Principal Component Analysis (PCA)/Python/Wine.csv
+ create mode 100644 Part 9 - Dimensionality Reduction/Section 43 - Principal Component Analysis (PCA)/Python/principal_component_analysis.ipynb
+ create mode 100644 Part 9 - Dimensionality Reduction/Section 43 - Principal Component Analysis (PCA)/R/Wine.csv
+ create mode 100644 Part 9 - Dimensionality Reduction/Section 43 - Principal Component Analysis (PCA)/R/pca.R
+ create mode 100644 Part 9 - Dimensionality Reduction/Section 44 - Linear Discriminant Analysis (LDA)/Python/Wine.csv
+ create mode 100644 Part 9 - Dimensionality Reduction/Section 44 - Linear Discriminant Analysis (LDA)/Python/linear_discriminant_analysis.ipynb
+ create mode 100644 Part 9 - Dimensionality Reduction/Section 44 - Linear Discriminant Analysis (LDA)/R/Wine.csv
+ create mode 100644 Part 9 - Dimensionality Reduction/Section 44 - Linear Discriminant Analysis (LDA)/R/lda.R
+ create mode 100644 Part 9 - Dimensionality Reduction/Section 45 - Kernel PCA/Python/Wine.csv
+ create mode 100644 Part 9 - Dimensionality Reduction/Section 45 - Kernel PCA/Python/kernel_pca.ipynb
+ create mode 100644 Part 9 - Dimensionality Reduction/Section 45 - Kernel PCA/R/Social_Network_Ads.csv
+ create mode 100644 Part 9 - Dimensionality Reduction/Section 45 - Kernel PCA/R/kernel_pca.R
